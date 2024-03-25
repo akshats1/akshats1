@@ -7,7 +7,7 @@ Data Scientist
 
 
 # 💫 About Me:
- I’m currently working Generative AI, MLOPS, Data Analytics...<br>You can contact me at akshats063@gmail.com<br>
+ I’m currently working Machine Learning, MLOPS, Data Analytics...<br>You can contact me at akshats063@gmail.com<br>
 
 
 ## 🌐 Socials:
