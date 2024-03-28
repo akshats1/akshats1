@@ -1,6 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Akshat Here
-==============================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Akshat Here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+ Akshat+Here)](https://git.io/typing-svg)
 Data Scientist
 --------------
 
